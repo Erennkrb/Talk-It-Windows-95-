@@ -13,3 +13,6 @@ Relive the nostalgia of the 90s with **Microsoft Talk It!**, the legendary text-
 
 ## Get Started
 Download it today and rediscover why **Talk It!** was one of the most beloved tools of its time.
+
+![Talk It!](talkit.png)
+
