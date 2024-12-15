@@ -16,3 +16,5 @@ Download it today and rediscover why **Talk It!** was one of the most beloved to
 
 ![Talk It!](talkit.png)
 
+## DONATIONS :
+- Paypal ; [ErenKrb](https://www.paypal.com/paypalme/Erenkrb)
